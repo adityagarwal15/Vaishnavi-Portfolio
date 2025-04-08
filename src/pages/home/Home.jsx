@@ -51,7 +51,7 @@ const Home = () => {
       </div>
       <div className="hero-copy">
         <div className="hero-copy-wrapper">
-          <h1>Vaish</h1>
+          <h1>Vaishnavi</h1>
         </div>
         <div className="hero-copy-wrapper">
           <h1>Gupta</h1>
