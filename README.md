@@ -28,10 +28,10 @@ Explore the live version of the website here:
 🔗 [https://vaishnavigupta.netlify.app](https://vaishnavigupta.netlify.app)
 
 ### Screenshot  
-![Portfolio Screenshot](https://your-screenshot-url.com)
+![Portfolio Screenshot](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1744312446/Screenshot_2025-04-11_004326_swww4t.png)
 
 ### Walkthrough Video  
-[![Portfolio Walkthrough](https://your-thumbnail-url.com)](https://your-video-url.com)  
+[![Portfolio Walkthrough](https://res.cloudinary.com/dcf0cpuqf/image/upload/v1744312446/Screenshot_2025-04-11_004326_swww4t.png)](https://res.cloudinary.com/dcf0cpuqf/video/upload/v1744312626/NAVI-PORTFOLIO-VIDEO_jpu8wk.mp4)  
 > Click the image above to watch the video!
 
 ## About Vaishnavi Gupta
