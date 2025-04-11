@@ -1,9 +1,5 @@
 :root {
-  --color-bg: 
-  radial-gradient(circle at 50% 40%, #ffffff0a, #000000 70%),
-  radial-gradient(circle at 25% 75%, #ffe4b360, transparent),
-  radial-gradient(circle at 75% 25%, #ffb6c160, transparent);
---color-bg-color: #0d0d0d;
+ --color-bg: #0d0d11;
   --color-bg-light: #131317;
   --color-bg-lighter: #2e2e34;
   --color-text-primary: #fff;
