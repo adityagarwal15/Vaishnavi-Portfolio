@@ -82,11 +82,11 @@ const About = () => {
                 <span>Email: </span> <span>vaishnaviig03@gmail.com</span>
               </p>
               <p>
-                <span>Phone: </span> <span>+91 7607715159</span>
+                <span>Phone: </span> <span>+91 760771xxxx</span>
               </p>
               <p>
                 <span>Address: </span>{" "}
-                <span>15/58 Civil Lines, Kanpur</span>
+                <span>1x/x8 Civil Lines, Kanpur</span>
               </p>
 
               <br />
@@ -225,7 +225,7 @@ const About = () => {
 
             <br />
             <p>
-              <span>+91 7607715159</span>
+              <span>+91 760771xxxx</span>
             </p>
             <p>
               <span>Instagram • Twitter</span>
