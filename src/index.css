@@ -1,10 +1,12 @@
 :root {
- --color-bg: #0d0d11;
-  --color-bg-light: #131317;
+  --color-bg: radial-gradient(circle at 50% 40%, #ffffff0a, #000000 70%),
+               radial-gradient(circle at 25% 75%, #ffe4b360, transparent),
+               radial-gradient(circle at 75% 25%, #ffb6c160, transparent);
+  --color-bg-light: #000000;
   --color-bg-lighter: #2e2e34;
   --color-text-primary: #fff;
   --color-text-secondary: #4a4a51;
-  --color-accent: #0604f0;
+  --color-accent: #ffe4b360;
 }
 
 * {
@@ -17,7 +19,8 @@ html,
 body {
   width: 100%;
   height: 100%;
-  background-color: var(--color-bg);
+  background: var(--color-bg);
+  background-color: #0d0d0d; /* Fallback background color */
   font-family: "Wremena";
   overflow-x: hidden;
 }
