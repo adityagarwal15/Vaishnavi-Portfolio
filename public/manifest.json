@@ -1,0 +1,21 @@
+{
+  "name": "Vaishnavi Gupta | Fashion Designer",
+  "short_name": "Vaishnavi Gupta",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "description": "Discover the portfolio of Vaishnavi Gupta — an emerging fashion designer showcasing elegant, modern, and original collections.",
+  "icons": [
+    {
+      "src": "https://res.cloudinary.com/dcf0cpuqf/image/upload/v1744798740/site-icon_d1qmlm.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://res.cloudinary.com/dcf0cpuqf/image/upload/v1744798740/site-icon_d1qmlm.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
