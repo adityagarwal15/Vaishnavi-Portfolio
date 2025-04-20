@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vaishnavigupta.vercel.app/sitemap.xml
